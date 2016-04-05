@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">My Coffee</string>
+    <string name="search_another_coffee">Google another coffee</string>
+    <string name="preparation">Preparation</string>
+
+    <string name="espresso_coffee_title">Espresso Coffee</string>
+    <string name="espresso_coffee_info">
+                    The purest and strongest form of coffee, \n
+                    it is an Italian invention and is the basis \n
+                    of all the various coffee styles.</string>
+    <string name="espresso_coffee_preparation">
+                    It’s easy to make a strong espresso at home.
+                    Just add a spoonful of your coffee to one-fourth
+                    hot water in a mug and stir.
+                    \nAdd sugar to taste. </string>
+
+
+    <string name="americano_coffee_title">Americano Coffee</string>
+    <string name="americano_coffee_info"></string>
+    <string name="americano_coffee_preparation">
+                    Add a shot of espresso to a mug.
+                    Fill it with steaming water and stir for a strong cup of Americano.
+                    \nAdd sugar to taste.</string>
+
+    <string name="mocha_coffee_title">Mocha Coffee</string>
+    <string name="mocha_coffee_info"></string>
+    <string name="mocha_coffee_preparation">
+                    Just add one-third espresso in a mug
+                    along with one-third chocolate syrup
+                    and one-third steamed milk.
+                    \nSprinkle with chocolate. </string>
+
+    <string name="flat_white_coffee_title">Flat White Coffee</string>
+    <string name="flat_white_coffee_info"></string>
+    <string name="flat_white_coffee_preparation">
+                    To enjoy a delicious Flat White at home,
+                    just add a shot of espresso directly into
+                    half a mug of hot milk.</string>
+
+    <string name="latte_macchiato_coffee_title">Latte Macchiato Coffee</string>
+    <string name="latte_macchiato_coffee_info"></string>
+    <string name="latte_macchiato_coffee_preparation">
+                    Fill a mug with hot frothed milk.
+                    Add sugar to taste. Now slowly dribble
+                    in a shot of espresso to create a layered effect.
+                    Spoon some milk foam over your coffee
+                    and enjoy!</string>
+
+    <string name="frappe_coffee_title">Frappe Coffee</string>
+    <string name="frappe_coffee_info"></string>
+    <string name="frappe_coffee_preparation">
+                    Take two cups of water and add 2 spoonful
+                    of coffeeand sugar. Let it chill in the fridge.
+                    Now pour the chilled coffee, half a cup of
+                    vanilla ice cream and 3-4 ice cubes in a blender
+                    and blend until frothy.
+                    Pour into glass and serve.
+                    Enjoy the perfect summer coffee!</string>
+
+    <string name="cappuccino_title">Cappuccino Coffee</string>
+    <string name="cappuccino_info">
+                    A cappuccino differs from a caffè latte
+                    in that it is prepared with much less steamed
+                    or textured milk than the caffè latte. </string>
+    <string name="cappuccino_coffee_preparation">
+                    Add a shot of espresso to one-third milk
+                    and one-third thick creamy milk froth.
+                    Dust it with chocolate sprinkles and enjoy
+                    a delicious cup of cappuccino with thick foam
+                    and rich aroma right at home
+                    or everywhere you want!</string>
+
+    <string name="latte_coffee_title">Latte Coffee</string>
+    <string name="latte_coffee_info"> </string>
+    <string name="latte_coffee_preparation">
+                    Pour creamy steamed milk over a shot of espresso.
+                    Add a dollop of frothed milk on the top.
+                    Mix sugar and stir to enjoy a warm cup of Caffe Latte. </string>
+
+
+</resources>

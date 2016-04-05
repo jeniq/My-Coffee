@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Мой кофе</string>
+    <string name="preparation">Приготовление</string>
+
+    <string name="espresso_coffee_title">Эспрессо</string>
+    <string name="espresso_coffee_info">
+                     Наиболее чистый и самый крепкий кофе,
+                     это итальянское изобретение и является основой всех
+                     большинства типов кофе.</string>
+    <string name="espresso_coffee_preparation">
+                     Крепкий эспрессо легко сделать в домашних условиях.
+                     Просто добавьте ложку кофе до одной четвертой горячей воды
+                     в чашку и размешать.
+                     \nДобавьте сахар по вкусу." </string>
+
+
+    <string name="americano_coffee_title">Американо</string>
+    <string name="americano_coffee_info"></string>
+    <string name="americano_coffee_preparation">
+                    Добавьте эспрессо в чашку.
+                    Наполните его горячей водой и размешайте для крепкой чашки Америкамо.
+                    \nДобавьте сахар по вкусу.</string>
+
+</resources>

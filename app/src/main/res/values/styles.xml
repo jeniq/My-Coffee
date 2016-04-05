@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--- Style for coffee tittles under pictures -->
+    <style name="CoffeeTittle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textColor">#5d4037</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Style for drunk counter and heart of every coffee -->
+    <style name="drunkCountHeart" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_marginTop">18dp</item>
+        <item name="android:layout_marginRight">14dp</item>
+    </style>
+
+    <!-- Style for drunk counter of every coffee -->
+    <style name="drunkCount" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_marginRight">2dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <!-- Style for heart image in more info about coffee -->
+    <style name="heartLike" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+</resources>
